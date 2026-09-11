@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0FF70F&background=2F83FF00&width=435&lines=%3CWelcome+to+my+Github+%3E%F0%9F%91%8B;I'm+Davronbek+python+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FF70F&background=2F83FF00&width=435&lines=%3CWelcome+to+my+Github+%3E%F0%9F%91%8B;I'm+Davronbek+python+developer)](https://git.io/typing-svg)
 
 <!--
 **davron-abdullayev/davron-abdullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
