@@ -34,9 +34,9 @@ class Developer:
 
     def get_skills(self):
         return {
-            "frameworks": ["FastAPI", "Django", "Aiogram"],
+            "frameworks": [ "Aiogram"],
             "databases": ["PostgreSQL", "MySQL", "Redis"],
-            "tools": ["Git", "Docker", "DataGrip", "Alembic"],
+            "tools": ["Git",  "DataGrip", "Alembic"],
         }
 
     def say_hello(self):
