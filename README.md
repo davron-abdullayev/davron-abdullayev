@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=200&color=0FF70F&background=2F83FF00&width=435&lines=Welcome+to+my+Github+;I'm+Davronbek+python+developer)](https://git.io/typing-svg)
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Welcome to my GitHub!
+
 
 ## 💫 About Me
 
