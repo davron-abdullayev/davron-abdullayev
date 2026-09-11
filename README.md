@@ -16,3 +16,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Welcome to my GitHub!
+
+## 💫 About Me
+
+```python
+from dataclasses import dataclass
+
+
+@dataclass
+class Developer:
+    name = "Davron"
+    role = "Python Backend Developer"
+    education = "Tashkent State Transport University"
+    languages = ["Python", "SQL", "JavaScript"]
+    current_focus = "Backend Development"
+
+    def get_skills(self):
+        return {
+            "frameworks": ["FastAPI", "Django", "Aiogram"],
+            "databases": ["PostgreSQL", "MySQL", "Redis"],
+            "tools": ["Git", "Docker", "DataGrip", "Alembic"],
+        }
+
+    def say_hello(self):
+        return "Let's build something great together! 🚀"
+
+
+me = Developer()
+print(me.say_hello())
